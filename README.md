@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **Reactjs,Nodejs,UX/UI,Expressjs,PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [https://transcendent-sundae-2b02d9.netlify.app/](https://transcendent-sundae-2b02d9.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://akhilrathod-portfolio.netlify.app/](https://akhilrathod-portfolio.netlify.app/)
 
 - 💬 Ask me about **react,node**
 
 - 📫 How to reach me **akhilsonu09@gmail.com**
 
-- 📄 Know about my experiences [https://transcendent-sundae-2b02d9.netlify.app/assets/Resume.pdf](https://transcendent-sundae-2b02d9.netlify.app/assets/Resume.pdf)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1lsYWOW95JD6y6JdlD2O70SBgnXPs41VM/view](https://drive.google.com/file/d/1lsYWOW95JD6y6JdlD2O70SBgnXPs41VM/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
